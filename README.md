@@ -1,5 +1,6 @@
-### Hi there 👋
+👋
 ## About
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
 I am a **Software Engineer** at [Swiggy](https://www.swiggy.com/) with background in Computer Science and Engineering. Previously, I worked at [PlayGames24x7](https://www.games24x7.com/) and [Unisys](https://www.unisys.com/).
 
 
@@ -8,7 +9,7 @@ I am active on GitHub and track some of my development activity for open source.
 
 ![sanu's github stats](https://github-readme-stats.vercel.app/api?username=sanusatyadarshi&show_icons=true&&theme=nord&hide_border=true&count_private=true&hide=issues&custom_title=GitHub%20Stats)
 
-![sanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanusatyadarshi&theme=nord&hide_border=true&custom_title=Language%20Stats)
+![sanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanusatyadarshi&theme=nord&hide_border=true&custom_title=Most%20Used%20Languages)
 
 
 ## Let's connect

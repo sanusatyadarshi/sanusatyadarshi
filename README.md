@@ -1,6 +1,5 @@
-👋
 ## About
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45px">
 I am a **Software Engineer** at [Swiggy](https://www.swiggy.com/) with background in Computer Science and Engineering. Previously, I worked at [PlayGames24x7](https://www.games24x7.com/) and [Unisys](https://www.unisys.com/).
 
 

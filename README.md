@@ -4,7 +4,6 @@
 ### I am a **Software Engineer** at [Swiggy](https://www.swiggy.com/) with background in Computer Science and Engineering. Previously, I worked at [PlayGames24x7](https://www.games24x7.com/) and [Unisys](https://www.unisys.com/).
 
 <br/>
-<br/>
 
 ## My GitHub Development Activity
 I use GitHub to develop hobbyist projects and also practice Data Structures and Algorithms
@@ -13,6 +12,7 @@ I use GitHub to develop hobbyist projects and also practice Data Structures and 
 
 ![sanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanusatyadarshi&theme=nord&hide_border=true&custom_title=Most%20Used%20Languages)
 
+<br/>
 
 ## Let's connect
 

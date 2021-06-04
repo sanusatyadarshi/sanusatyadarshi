@@ -8,7 +8,7 @@ I am active on GitHub and track some of my development activity for open source.
 
 ![sanu's github stats](https://github-readme-stats.vercel.app/api?username=sanusatyadarshi&show_icons=true&&theme=nord&hide_border=true&count_private=true&hide=issues&custom_title=Github%20Stats)
 
-![sanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=@sanusatyadarshi&layout=compact&theme=nord&hide_border=true&custom_title=Other%20Stats)
+![sanu's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=sanusatyadarshi&theme=nord&hide_border=true&custom_title=Other%20Stats)
 
 
 <!-- ## Follow Me

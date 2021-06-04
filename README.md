@@ -1,6 +1,6 @@
 ### Hi there 👋
 ## About
-I am a **Software Engineer** at Swiggy with background in Computer Science and Engineering. Previously I worked at [PlayGames24x7](https://www.games24x7.com//) and [Unisys](https://www.unisys.com/).
+I am a **Software Engineer** at [Swiggy](https://www.swiggy.com/) with background in Computer Science and Engineering. Previously I worked at [PlayGames24x7](https://www.games24x7.com/) and [Unisys](https://www.unisys.com/).
 
 <!-- Approximately two thirds of my work is supporting open source and much of that is within the [Google Maps GitHub organization](https://github.com/googlemaps). The remainder of my development work is internal to Google and focused on fixing bugs, enabling new features, and creating processes that create a better development experience.
 
@@ -20,7 +20,7 @@ I am not very active on social media, but ...
 [![](https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white)](https://github.com/jpoehnelt)
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/justin-poehnelt)
 [![](https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white)](https://jpoehnelt.medium.com/)
-[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jpoehnelt --> -->
+[![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/jpoehnelt -->
 
 <!--
 **sanusatyadarshi/sanusatyadarshi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
